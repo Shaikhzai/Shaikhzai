@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaid</h1>
+<h1 align="center">Hi 👋, I'm ShaZai</h1>
 <h3 align="center">Student | FrontEnd Developer | PartTime YouTuber</h3>
 
 - 🔭 I’m currently working on [ParallaxProject](https://github.com/Shaikhzai/ACROSS)
