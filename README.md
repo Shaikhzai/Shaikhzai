@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Developmet**
 
-- 📫 How to reach me [Email](shaikhmoh1173@gmail.com) || [Contact](+91 9845057544)
+- 📫 How to reach me [Email](shaikhmoh1173@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
