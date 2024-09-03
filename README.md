@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/voidzai](https://linktr.ee/voidzai)
 
-- 💬 Ask me about **Web Developmet**
-
 - 📫 How to reach me [Email](shaikhmoh1173@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
