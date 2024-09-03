@@ -26,4 +26,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhzai&" alt="shaikhzai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhzai&theme=dark" alt="shaikhzai" /></p>
