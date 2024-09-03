@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **NextJs, ThreeJs, Lenis, Sass**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/voidzai](https://linktr.ee/voidzai)
+- 👨‍💻 All of my projects are available at [linktr.ee/voidzai](https://linktr.ee/voidzai)
 
 - 💬 Ask me about **Web Developmet**
 
-- 📫 How to reach me **shaikhmoh1173@gmail.com**
-
-- ⚡ Fun fact **Im a Standup Comedian**
+- 📫 How to reach me [Email](shaikhmoh1173@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
